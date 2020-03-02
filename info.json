@@ -1,0 +1,9 @@
+{
+    "name": "Seizure_Compliance",
+    "version": "0.0.1",
+    "title": "Seizure Compliance Mod",
+    "author": "some friends",
+    "description": "A Seizure Compliance Mod for Factorio",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17","SmoothWarnings"]
+}
