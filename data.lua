@@ -6,7 +6,7 @@ local colors = {
     green = {r = 0, g = 1, b = 0, a = 0},
     yellow = {r = 1, g = 0.8, b = 0, a = 0}
   }
-local color_setting = settings.startup["SC-damage-hit-tint"].value
+local color_setting = settings.startup["NF-damage-hit-tint"].value
 if  color_setting == "off" then
     data.raw["character"]["character"].damage_hit_tint = colors.off
 elseif color_setting == "white" then

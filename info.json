@@ -1,7 +1,7 @@
 {
-    "name": "no_flash_flash",
+    "name": "no_flash",
     "version": "0.1.0",
-    "title": "No Flash Flash",
+    "title": "No Flash",
     "author": "Mafia",
     "description": "A Seizure Compliance Mod for Factorio",
     "factorio_version": "0.17",
