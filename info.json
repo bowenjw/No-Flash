@@ -5,5 +5,5 @@
     "author": "Mafia",
     "description": "A Seizure Compliance Mod for Factorio",
     "factorio_version": "0.17",
-    "dependencies": ["base >= 0.17","SmoothWarnings >= 1.0","Bottleneck >= 0.10","no_power_icons >= 0.17"]
+    "dependencies": ["base >= 0.17","SmoothWarnings >= 1.0","Bottleneck >= 0.10","No_Power_Icons >= 0.17"]
 }
