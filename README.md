@@ -6,7 +6,7 @@ This mod can be found on the Factorio mod portal [here](https://mods.factorio.co
 ## How to Use
 1. Open lunch Factorio
 2. Go to mods
-3. Added new mod no flash
+3. Added new mod "no flash"
 4. Enjoy
 ## Dependencies
 * [SmoothWarnings](https://mods.factorio.com/mod/SmoothWarnings)
