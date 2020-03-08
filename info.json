@@ -1,9 +1,9 @@
 {
     "name": "no_flash",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "title": "No Flash",
     "author": "Mafia",
     "description": "A Seizure Compliance Mod for Factorio",
     "factorio_version": "0.17",
-    "dependencies": ["base >= 0.17","SmoothWarnings >= 1.0","Bottleneck >= 0.11","No_Power_Icons >=0.18"]
+    "dependencies": ["base >= 0.17","SmoothWarnings >= 1.0","Bottleneck >= 0.10","no_power_icons >= 0.17"]
 }
